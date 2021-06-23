@@ -59,7 +59,7 @@ manifest:
     - name: zephyr
       repo-path: sdk-zephyr
       remote: wiha
-      revision: gitlint
+      revision: master
       import:
         # In addition to the zephyr repository itself, NCS also
         # imports the contents of zephyr/west.yml at the above
